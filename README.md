@@ -61,12 +61,11 @@ The website is deployed on Vercel. Any push to the main branch will trigger an a
 5. Open a Pull Request
 
 ## 🐦 Connect on Twitter
-[![Twitter Follow](https://img.shields.io/twitter/follow/JAY_VEGAD_?style=social)](https://twitter.com/JAY_VEGAD_)
-[![GitHub Follow](https://img.shields.io/github/followers/Vegadjay?style=social)](https://github.com/JAYVEGAD)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anurags013?style=social)](https://twitter.com/anurags013)
+[![GitHub Follow](https://img.shields.io/github/followers/Anurag-singh-thakur?style=social)](https://github.com/Anurag-singh-thakur)
 
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Contact
-Jay vegad - jayvegad10@gmail.com
+
