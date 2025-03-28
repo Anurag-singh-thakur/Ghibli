@@ -9,7 +9,7 @@
 - Simple and intuitive image upload process
 
 ## 🔗 Deployed Link
-[Checkout here](https://ghiblipics.vercel.app/)
+[Checkout here](https://ghibli-five.vercel.app/)
 
 ## 🖼️ Screenshots
 ### Home Page
